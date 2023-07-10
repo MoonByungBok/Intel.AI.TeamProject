@@ -19,7 +19,7 @@
 * (Code clone 방법에 대해서 기술)
 
 ```shell
-git clone https://github.com/MoonByungBok/Intel.AI.TeamProject
+git clone https://github.com/MoonByungBok/Intel.AI.TeamProject.git
 ```
 
 ## Prerequite
