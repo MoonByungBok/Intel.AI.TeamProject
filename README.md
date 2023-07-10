@@ -49,7 +49,7 @@ python project_final.py
 
 ## Output
 
-![./images/result.jpg](./images/result.jpg)
+![./Project/outimage.jpg](./Project/outimage.jpg)
 
 ## Appendix
 
